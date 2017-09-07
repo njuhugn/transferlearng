@@ -1,4 +1,4 @@
-# transferlearng
+# transfer learng
 transfer learning in AI
 
 ## Recsys
